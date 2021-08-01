@@ -1,8 +1,11 @@
 # Terra Python SDK
 Notebooks for getting started with exploring the Terra Blockchain using Python.
 
+# Instructions
+Follow the links below to open up the Google Colab Notebooks.  Create a copy and start hacking away :)
+
 # Notebooks
-1. [Terra SDK for Python](https://github.com/lejimmy/terra-python-sdk/blob/main/Terra_SDK_Tutorial.ipynb)
+1. [Terra SDK for Python](https://colab.research.google.com/drive/1CbIQMp2np9Q4iVz5EE7-wlGPG1XPtvQz?usp=sharing)
 
 # Resources
 - [Terra Docs](https://docs.terra.money/)
